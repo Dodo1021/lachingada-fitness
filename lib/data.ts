@@ -68,9 +68,7 @@ export const sucursales: Sucursal[] = [
       messenger: 'https://m.me/61583350767500',
     },
     horarios: [
-      { dia: 'Lunes a Viernes', horario: '6:00 AM - 10:00 PM' },
-      { dia: 'Sábado', horario: '7:00 AM - 5:00 PM' },
-      { dia: 'Domingo', horario: '8:00 AM - 3:00 PM' },
+      { dia: 'Lunes a Domingo', horario: '24 horas' },
     ],
     acceso24h: true,
     servicios: [
