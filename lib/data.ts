@@ -1,1 +1,275 @@
-{"data":"ZXhwb3J0IGludGVyZmFjZSBTdWN1cnNhbCB7CiAgaWQ6IHN0cmluZwogIG5vbWJyZTogc3RyaW5nCiAgbm9tYnJlQ29ydG86IHN0cmluZwogIGVzdGFkbzogJ2FiaWVydG8nIHwgJ3Byb3hpbWFtZW50ZScKICBmZWNoYUFwZXJ0dXJhPzogc3RyaW5nCiAgdWJpY2FjaW9uOiB7CiAgICBkaXJlY2Npb246IHN0cmluZwogICAgcmVmZXJlbmNpYT86IHN0cmluZwogICAgY2l1ZGFkOiBzdHJpbmcKICAgIGVzdGFkbzogc3RyaW5nCiAgICBnb29nbGVNYXBzVXJsOiBzdHJpbmcKICAgIGdvb2dsZU1hcHNFbWJlZDogc3RyaW5nCiAgfQogIGNvbnRhY3RvOiB7CiAgICB0ZWxlZm9ubz86IHN0cmluZwogICAgd2hhdHNhcHA6IHN0cmluZwogIH0KICByZWRlc1NvY2lhbGVzOiB7CiAgICBmYWNlYm9vazogc3RyaW5nCiAgICBpbnN0YWdyYW06IHN0cmluZwogICAgbWVzc2VuZ2VyOiBzdHJpbmcKICB9CiAgaG9yYXJpb3M6IHsKICAgIGRpYTogc3RyaW5nCiAgICBob3JhcmlvOiBzdHJpbmcKICB9W10KICBhY2Nlc28yNGg/OiBib29sZWFuCiAgc2VydmljaW9zOiB7CiAgICBpY29ubzogc3RyaW5nCiAgICB0aXR1bG86IHN0cmluZwogICAgZGVzY3JpcGNpb246IHN0cmluZwogIH1bXQogIHByZWNpb3M6IFByZWNpb3NQbGFuW10KICBwb2xpdGljYXM6IHN0cmluZ1tdCiAgY2FyYWN0ZXJpc3RpY2FzRXNwZWNpYWxlcz86IHN0cmluZ1tdCn0KCmV4cG9ydCBpbnRlcmZhY2UgUHJlY2lvc1BsYW4gewogIG5vbWJyZTogc3RyaW5nCiAgcHJlY2lvOiBzdHJpbmcKICBwcmVjaW9EYW1hcz86IHN0cmluZwogIG5vdGFzPzogc3RyaW5nCiAgZGVzdGFjYWRvPzogYm9vbGVhbgogIGFob3Jybz86IHN0cmluZwp9CgpleHBvcnQgY29uc3Qgc3VjdXJzYWxlczogU3VjdXJzYWxbXSA9IFsKICB7CiAgICBpZDogJ3BsYXphLXB1ZXJ0YS1ncmFuZGUnLAogICAgbm9tYnJlOiAnUGxhemEgUHVlcnRhIEdyYW5kZScsCiAgICBub21icmVDb3J0bzogJ1BQRycsCiAgICBlc3RhZG86ICdwcm94aW1hbWVudGUnLAogICAgZmVjaGFBcGVydHVyYTogJ0VuZXJvIDIwMjYnLAogICAgdWJpY2FjaW9uOiB7CiAgICAgIGRpcmVjY2lvbjogJ0NhbS4gYSBDaGljb2xhIFMvTiwgUmFuY2hvIFB1ZXJ0YSBHcmFuZGUsIDk0NDIwIFBhbG1pcmEsIFZlci4nLAogICAgICByZWZlcmVuY2lhOiAnRGVsYW50ZSBkZWwgQ0JUSVMgMTQyJywKICAgICAgY2l1ZGFkOiAnUGFsbWlyYScsCiAgICAgIGVzdGFkbzogJ1ZlcmFjcnV6JywKICAgICAgZ29vZ2xlTWFwc1VybDogJ2h0dHBzOi8vbWFwcy5hcHAuZ29vLmdsL3R0cHZ3M2ZUWHpVUEdXOVE5JywKICAgICAgZ29vZ2xlTWFwc0VtYmVkOiAnaHR0cHM6Ly9tYXBzLmdvb2dsZS5jb20vbWFwcz9xPUxhK0NoaW5nYWRhK0ZpdG5lc3MrUGxhemErUHVlcnRhK0dyYW5kZSwrUGFsbWlyYSwrVmVyYWNydXomdD0mej0xNyZpZT1VVEY4Jml3bG9jPSZvdXRwdXQ9ZW1iZWQnLAogICAgfSwKICAgIGNvbnRhY3RvOiB7CiAgICAgIHdoYXRzYXBwOiAnNTIzMzE4OTAzNDk2JywKICAgIH0sCiAgICByZWRlc1NvY2lhbGVzOiB7CiAgICAgIGZhY2Vib29rOiAnaHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3Byb2ZpbGUucGhwP2lkPTYxNTgzMzUwNzY3NTAwJywKICAgICAgaW5zdGFncmFtOiAnaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9sYWNoaW5nYWRhZml0bmVzc19wcGcnLAogICAgICBtZXNzZW5nZXI6ICdodHRwczovL20ubWUvNjE1ODMzNTA3Njc1MDAnLAogICAgfSwKICAgIGhvcmFyaW9zOiBbCiAgICAgIHsgZGlhOiAnTHVuZXMgYSBWaWVybmVzJywgaG9yYXJpbzogJzY6MDAgQU0gLSAxMDowMCBQTScgfSwKICAgICAgeyBkaWE6ICdTw6FiYWRvJywgaG9yYXJpbzogJzc6MDAgQU0gLSA1OjAwIFBNJyB9LAogICAgICB7IGRpYTogJ0RvbWluZ28nLCBob3JhcmlvOiAnODowMCBBTSAtIDM6MDAgUE0nIH0sCiAgICBdLAogICAgYWNjZXNvMjRoOiB0cnVlLAogICAgc2VydmljaW9zOiBbCiAgICAgIHsKICAgICAgICBpY29ubzogJ2R1bWJiZWxsJywKICAgICAgICB0aXR1bG86ICdFcXVpcG9zIFByZW1pdW0nLAogICAgICAgIGRlc2NyaXBjaW9uOiAnTWFxdWluYXJpYSBQYW5hdHRhIHkgTWF0cml4IGRlIMO6bHRpbWEgZ2VuZXJhY2nDs24nLAogICAgICB9LAogICAgICB7CiAgICAgICAgaWNvbm86ICdjbG9jaycsCiAgICAgICAgdGl0dWxvOiAnQWNjZXNvIDI0LzcnLAogICAgICAgIGRlc2NyaXBjaW9uOiAnRW50cmVuYSBjdWFuZG8gcXVpZXJhcyBjb24gYWNjZXNvIGF1dG9tYXRpemFkbycsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBpY29ubzogJ2NhcicsCiAgICAgICAgdGl0dWxvOiAnRXN0YWNpb25hbWllbnRvJywKICAgICAgICBkZXNjcmlwY2lvbjogJ0VzdGFjaW9uYW1pZW50byBncmF0dWl0byBwYXJhIHRvZG9zIGxvcyBtaWVtYnJvcycsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBpY29ubzogJ3Nob3dlcicsCiAgICAgICAgdGl0dWxvOiAnVmVzdGlkb3JlcycsCiAgICAgICAgZGVzY3JpcGNpb246ICdSZWdhZGVyYXMgeSB2ZXN0aWRvcmVzIGVxdWlwYWRvcycsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBpY29ubzogJ3dpZmknLAogICAgICAgIHRpdHVsbzogJ1dpRmkgR3JhdGlzJywKICAgICAgICBkZXNjcmlwY2lvbjogJ0NvbmV4acOzbiBkZSBhbHRhIHZlbG9jaWRhZCBlbiB0b2RvIGVsIGd5bScsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBpY29ubzogJ3NoaWVsZCcsCiAgICAgICAgdGl0dWxvOiAnWm9uYSBTZWd1cmEnLAogICAgICAgIGRlc2NyaXBjaW9uOiAnQW1iaWVudGUgc2VndXJvIHkgYWNjZXNpYmxlIHBhcmEgdG9kb3MnLAogICAgICB9LAogICAgXSwKICAgIHByZWNpb3M6IFsKICAgICAgewogICAgICAgIG5vbWJyZTogJ1Zpc2l0YSBEaWFyaWEnLAogICAgICAgIHByZWNpbzogJyQ2MCcsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBub21icmU6ICdTZW1hbmFsJywKICAgICAgICBwcmVjaW86ICckMTgwJywKICAgICAgICBub3RhczogJzcgZMOtYXMgY29uc2VjdXRpdm9zJywKICAgICAgfSwKICAgICAgewogICAgICAgIG5vbWJyZTogJ0RvbWljaWxpYWRvIC8gU29jaW8gVklQJywKICAgICAgICBwcmVjaW86ICckMzk5L21lcycsCiAgICAgICAgbm90YXM6ICdDYXJnbyBhdXRvbcOhdGljbyBhIHRhcmpldGEsIHNpbiBwbGF6b3MgZm9yem9zb3MsIDUgdmlzaXRhcyBncmF0aXMvbWVzIHBhcmEgYWNvbXBhw7FhbnRlJywKICAgICAgICBkZXN0YWNhZG86IHRydWUsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBub21icmU6ICdFc3R1ZGlhbnRlcyBGdW5kYWRvcmVzJywKICAgICAgICBwcmVjaW86ICckNDQ5L21lcycsCiAgICAgICAgbm90YXM6ICdDVVBPIExJTUlUQURPIC0gUmVxdWllcmUgY3JlZGVuY2lhbCBlc2NvbGFyJywKICAgICAgfSwKICAgICAgewogICAgICAgIG5vbWJyZTogJ1NvY2lvcyBGdW5kYWRvcmVzJywKICAgICAgICBwcmVjaW86ICckNTQ5L21lcycsCiAgICAgICAgbm90YXM6ICdDVVBPIExJTUlUQURPJywKICAgICAgfSwKICAgICAgewogICAgICAgIG5vbWJyZTogJ0VzdHVkaWFudGVzIE5vcm1hbCcsCiAgICAgICAgcHJlY2lvOiAnJDU5OS9tZXMnLAogICAgICAgIG5vdGFzOiAnUmVxdWllcmUgY3JlZGVuY2lhbCBlc2NvbGFyIHZpZ2VudGUnLAogICAgICB9LAogICAgICB7CiAgICAgICAgbm9tYnJlOiAnTWVuc3VhbGlkYWQgTm9ybWFsJywKICAgICAgICBwcmVjaW86ICckNjQ5L21lcycsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBub21icmU6ICdUcmltZXN0cmFsJywKICAgICAgICBwcmVjaW86ICckMSw4ODknLAogICAgICAgIGFob3JybzogJzEwJScsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBub21icmU6ICdTZW1lc3RyYWwnLAogICAgICAgIHByZWNpbzogJyQzLDU1OScsCiAgICAgICAgYWhvcnJvOiAnMTUlJywKICAgICAgfSwKICAgICAgewogICAgICAgIG5vbWJyZTogJ0FudWFsaWRhZCcsCiAgICAgICAgcHJlY2lvOiAnJDYsNjk5JywKICAgICAgICBhaG9ycm86ICcyMCUnLAogICAgICB9LAogICAgXSwKICAgIHBvbGl0aWNhczogWwogICAgICAnTWVub3JlcyBkZSBlZGFkIFNPTE8gcHVlZGVuIGluZ3Jlc2FyIGNvbiBjYXJ0YSByZXNwb25zaXZhIGZpcm1hZGEgcG9yIHBhZHJlcyBvIHR1dG9yZXMgbGVnYWxlcycsCiAgICBdLAogICAgY2FyYWN0ZXJpc3RpY2FzRXNwZWNpYWxlczogWwogICAgICAnQWNjZXNvIDI0LzcgcGFyYSBtaWVtYnJvcyBjb24gbWVtYnJlc8OtYSBhY3RpdmEnLAogICAgICAnU2lzdGVtYSBkZSBhY2Nlc28gYXV0b21hdGl6YWRvJywKICAgIF0sCiAgfSwKICB7CiAgICBpZDogJ2VsLWNhcHVsaW4nLAogICAgbm9tYnJlOiAnRWwgQ2FwdWzDrW4nLAogICAgbm9tYnJlQ29ydG86ICdDQVAnLAogICAgZXN0YWRvOiAnYWJpZXJ0bycsCiAgICB1YmljYWNpb246IHsKICAgICAgZGlyZWNjaW9uOiAnVmVudXN0aWFubyBDYXJyYW56YSAxLCA0NTY3NSBFbCBDYXB1bMOtbiwgSmFsLicsCiAgICAgIHJlZmVyZW5jaWE6ICdGcmVudGUgYSBsYSBwbGF6YSBkZWwgQ2FwdWzDrW4nLAogICAgICBjaXVkYWQ6ICdFbCBDYXB1bMOtbicsCiAgICAgIGVzdGFkbzogJ0phbGlzY28nLAogICAgICBnb29nbGVNYXBzVXJsOiAnaHR0cHM6Ly9tYXBzLmFwcC5nb28uZ2wvYTl5WmZIeGs0WVZYanB1VDcnLAogICAgICBnb29nbGVNYXBzRW1iZWQ6ICdodHRwczovL21hcHMuZ29vZ2xlLmNvbS9tYXBzP3E9TGErQ2hpbmdhZGErRml0bmVzcytFbCtDYXB1bGluLCtKYWxpc2NvJnQ9Jno9MTcmaWU9VVRGOCZpd2xvYz0mb3V0cHV0PWVtYmVkJywKICAgIH0sCiAgICBjb250YWN0bzogewogICAgICB0ZWxlZm9ubzogJys1MiAzMyAzNDcwIDY5MTAnLAogICAgICB3aGF0c2FwcDogJzUyMzMzNDcwNjkxMCcsCiAgICB9LAogICAgcmVkZXNTb2NpYWxlczogewogICAgICBmYWNlYm9vazogJ2h0dHBzOi8vd3d3LmZhY2Vib29rLmNvbS9sYWNoaW5nYWRhZml0bmVzc29maWNpYWwnLAogICAgICBpbnN0YWdyYW06ICdodHRwczovL3d3dy5pbnN0YWdyYW0uY29tL2xhY2hpbmdhZGFmaXRuZXNzX29maWNpYWwnLAogICAgICBtZXNzZW5nZXI6ICdodHRwczovL20ubWUvbGFjaGluZ2FkYWZpdG5lc3NvZmljaWFsJywKICAgIH0sCiAgICBob3JhcmlvczogWwogICAgICB7IGRpYTogJ0x1bmVzIGEgVmllcm5lcycsIGhvcmFyaW86ICc1OjQwIEFNIC0gMTE6MDAgUE0nIH0sCiAgICAgIHsgZGlhOiAnU8OhYmFkbycsIGhvcmFyaW86ICc3OjAwIEFNIC0gNTowMCBQTScgfSwKICAgICAgeyBkaWE6ICdEb21pbmdvJywgaG9yYXJpbzogJzg6MDAgQU0gLSAzOjAwIFBNJyB9LAogICAgXSwKICAgIHNlcnZpY2lvczogWwogICAgICB7CiAgICAgICAgaWNvbm86ICdjYXJkaW8nLAogICAgICAgIHRpdHVsbzogJ8OBcmVhIGRlIENhcmRpbycsCiAgICAgICAgZGVzY3JpcGNpb246ICdDYW1pbmFkb3JhcywgZWzDrXB0aWNhcywgYmljaWNsZXRhcyBlc3TDoXRpY2FzIHkgZXNjYWxhZG9yYXMnLAogICAgICB9LAogICAgICB7CiAgICAgICAgaWNvbm86ICdkdW1iYmVsbCcsCiAgICAgICAgdGl0dWxvOiAnUGVzYXMgeSBNw6FxdWluYXMnLAogICAgICAgIGRlc2NyaXBjaW9uOiAnw4FyZWEgY29tcGxldGEgZGUgcGVzYXMgbGlicmVzIHkgbcOhcXVpbmFzIGRlIG11c2N1bGFjacOzbicsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBpY29ubzogJ3N0cmV0Y2gnLAogICAgICAgIHRpdHVsbzogJ1pvbmEgRnVuY2lvbmFsJywKICAgICAgICBkZXNjcmlwY2lvbjogJ8OBcmVhIGRlIGVzdGlyYW1pZW50b3MgeSBlbnRyZW5hbWllbnRvIGZ1bmNpb25hbCcsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBpY29ubzogJ3Nob3dlcicsCiAgICAgICAgdGl0dWxvOiAnUmVnYWRlcmFzJywKICAgICAgICBkZXNjcmlwY2lvbjogJ1JlZ2FkZXJhcyBjb24gYWd1YSBjYWxpZW50ZSBpbmNsdWlkYXMnLAogICAgICB9LAogICAgICB7CiAgICAgICAgaWNvbm86ICdjb2FjaCcsCiAgICAgICAgdGl0dWxvOiAnSW5zdHJ1Y3RvcmVzJywKICAgICAgICBkZXNjcmlwY2lvbjogJ0VudHJlbmFkb3JlcyBjYXBhY2l0YWRvcyBpbmNsdWlkb3MgZW4gbGEgbWVtYnJlc8OtYScsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBpY29ubzogJ251dHJpdGlvbicsCiAgICAgICAgdGl0dWxvOiAnQXNlc29yw61hIE51dHJpY2lvbmFsJywKICAgICAgICBkZXNjcmlwY2lvbjogJ0FzZXNvcsOtYSBiw6FzaWNhIGRlIG51dHJpY2nDs24gc2luIGNvc3RvIGV4dHJhJywKICAgICAgfSwKICAgIF0sCiAgICBwcmVjaW9zOiBbCiAgICAgIHsKICAgICAgICBub21icmU6ICdWaXNpdGEnLAogICAgICAgIHByZWNpbzogJyQ2MCcsCiAgICAgICAgcHJlY2lvRGFtYXM6ICckNjAnLAogICAgICB9LAogICAgICB7CiAgICAgICAgbm9tYnJlOiAnU2VtYW5hbCcsCiAgICAgICAgcHJlY2lvOiAnJDE1MCcsCiAgICAgICAgcHJlY2lvRGFtYXM6ICckMTUwJywKICAgICAgfSwKICAgICAgewogICAgICAgIG5vbWJyZTogJ01lbnN1YWxpZGFkJywKICAgICAgICBwcmVjaW86ICckNDUwJywKICAgICAgICBwcmVjaW9EYW1hczogJyQ0MDAnLAogICAgICAgIGRlc3RhY2FkbzogdHJ1ZSwKICAgICAgfSwKICAgICAgewogICAgICAgIG5vbWJyZTogJ1RyaW1lc3RyYWwnLAogICAgICAgIHByZWNpbzogJyQxLDI1MCcsCiAgICAgICAgcHJlY2lvRGFtYXM6ICckMSwxMDAnLAogICAgICB9LAogICAgICB7CiAgICAgICAgbm9tYnJlOiAnU2VtZXN0cmFsJywKICAgICAgICBwcmVjaW86ICckMiw0MDAnLAogICAgICAgIHByZWNpb0RhbWFzOiAnJDIsMTAwJywKICAgICAgfSwKICAgICAgewogICAgICAgIG5vbWJyZTogJ0FudWFsaWRhZCcsCiAgICAgICAgcHJlY2lvOiAnJDQsNTAwJywKICAgICAgICBwcmVjaW9EYW1hczogJyQ0LDAwMCcsCiAgICAgIH0sCiAgICBdLAogICAgcG9saXRpY2FzOiBbCiAgICAgICdObyBoYXkgZWRhZCBtw61uaW1hIHBhcmEgaW5zY3JpYmlyc2UnLAogICAgICAnTm8gZXMgbmVjZXNhcmlvIHF1ZSBtZW5vcmVzIHZlbmdhbiBhY29tcGHDsWFkb3MgZGUgcGFkcmVzL3R1dG9yZXMnLAogICAgICAnUnV0aW5hcyAxMDAlIHBlcnNvbmFsaXphZGFzIHRpZW5lbiBjb3N0byBhZGljaW9uYWwnLAogICAgXSwKICAgIGNhcmFjdGVyaXN0aWNhc0VzcGVjaWFsZXM6IFsKICAgICAgJ8KhSW5zY3JpcGNpw7NuIEdSQVRJUyEnLAogICAgICAnQW1iaWVudGUgY2xpbWF0aXphZG8nLAogICAgICAnV2lGaSBncmF0dWl0bycsCiAgICAgICdFc3RhY2lvbmFtaWVudG8gcMO6YmxpY28gYWwgbGFkbyBkZWwgZ2ltbmFzaW8nLAogICAgXSwKICB9LApdCgpleHBvcnQgZnVuY3Rpb24gZ2V0U3VjdXJzYWwoaWQ6IHN0cmluZyk6IFN1Y3Vyc2FsIHwgdW5kZWZpbmVkIHsKICByZXR1cm4gc3VjdXJzYWxlcy5maW5kKChzKSA9PiBzLmlkID09PSBpZCkKfQo="}
+export interface Sucursal {
+  id: string
+  nombre: string
+  nombreCorto: string
+  estado: 'abierto' | 'proximamente'
+  fechaApertura?: string
+  ubicacion: {
+    direccion: string
+    referencia?: string
+    ciudad: string
+    estado: string
+    googleMapsUrl: string
+    googleMapsEmbed: string
+  }
+  contacto: {
+    telefono?: string
+    whatsapp: string
+  }
+  redesSociales: {
+    facebook: string
+    instagram: string
+    messenger: string
+  }
+  horarios: {
+    dia: string
+    horario: string
+  }[]
+  acceso24h?: boolean
+  servicios: {
+    icono: string
+    titulo: string
+    descripcion: string
+  }[]
+  precios: PreciosPlan[]
+  politicas: string[]
+  caracteristicasEspeciales?: string[]
+}
+
+export interface PreciosPlan {
+  nombre: string
+  precio: string
+  precioDamas?: string
+  notas?: string
+  destacado?: boolean
+  ahorro?: string
+}
+
+export const sucursales: Sucursal[] = [
+  {
+    id: 'plaza-puerta-grande',
+    nombre: 'Plaza Puerta Grande',
+    nombreCorto: 'PPG',
+    estado: 'abierto',
+    ubicacion: {
+      direccion: 'Cam. a Chicola S/N, Rancho Puerta Grande, 94420 Palmira, Ver.',
+      referencia: 'Delante del CBTIS 142',
+      ciudad: 'Palmira',
+      estado: 'Veracruz',
+      googleMapsUrl: 'https://maps.app.goo.gl/ttpvw3fTXzUPGW9Q9',
+      googleMapsEmbed: 'https://maps.google.com/maps?q=La+Chingada+Fitness+Plaza+Puerta+Grande,+Palmira,+Veracruz&t=&z=17&ie=UTF8&iwloc=&output=embed',
+    },
+    contacto: {
+      whatsapp: '523318903496',
+    },
+    redesSociales: {
+      facebook: 'https://www.facebook.com/profile.php?id=61583350767500',
+      instagram: 'https://www.instagram.com/lachingadafitness_ppg',
+      messenger: 'https://m.me/61583350767500',
+    },
+    horarios: [
+      { dia: 'Lunes a Viernes', horario: '6:00 AM - 10:00 PM' },
+      { dia: 'Sábado', horario: '7:00 AM - 5:00 PM' },
+      { dia: 'Domingo', horario: '8:00 AM - 3:00 PM' },
+    ],
+    acceso24h: true,
+    servicios: [
+      {
+        icono: 'dumbbell',
+        titulo: 'Equipos Premium',
+        descripcion: 'Maquinaria Panatta y Matrix de última generación',
+      },
+      {
+        icono: 'clock',
+        titulo: 'Acceso 24/7',
+        descripcion: 'Entrena cuando quieras con acceso automatizado',
+      },
+      {
+        icono: 'car',
+        titulo: 'Estacionamiento',
+        descripcion: 'Estacionamiento gratuito para todos los miembros',
+      },
+      {
+        icono: 'shower',
+        titulo: 'Vestidores',
+        descripcion: 'Regaderas y vestidores equipados',
+      },
+      {
+        icono: 'wifi',
+        titulo: 'WiFi Gratis',
+        descripcion: 'Conexión de alta velocidad en todo el gym',
+      },
+      {
+        icono: 'shield',
+        titulo: 'Zona Segura',
+        descripcion: 'Ambiente seguro y accesible para todos',
+      },
+    ],
+    precios: [
+      {
+        nombre: 'Visita Diaria',
+        precio: '$60',
+      },
+      {
+        nombre: 'Semanal',
+        precio: '$180',
+        notas: '7 días consecutivos',
+      },
+      {
+        nombre: 'Domiciliado / Socio VIP',
+        precio: '$399/mes',
+        notas: 'Cargo automático a tarjeta, sin plazos forzosos, 5 visitas gratis/mes para acompañante',
+        destacado: true,
+      },
+      {
+        nombre: 'Estudiantes Fundadores',
+        precio: '$449/mes',
+        notas: 'CUPO LIMITADO - Requiere credencial escolar',
+      },
+      {
+        nombre: 'Socios Fundadores',
+        precio: '$549/mes',
+        notas: 'CUPO LIMITADO',
+      },
+      {
+        nombre: 'Estudiantes Normal',
+        precio: '$599/mes',
+        notas: 'Requiere credencial escolar vigente',
+      },
+      {
+        nombre: 'Mensualidad Normal',
+        precio: '$649/mes',
+      },
+      {
+        nombre: 'Trimestral',
+        precio: '$1,889',
+        ahorro: '10%',
+      },
+      {
+        nombre: 'Semestral',
+        precio: '$3,559',
+        ahorro: '15%',
+      },
+      {
+        nombre: 'Anualidad',
+        precio: '$6,699',
+        ahorro: '20%',
+      },
+    ],
+    politicas: [
+      'Menores de edad SOLO pueden ingresar con carta responsiva firmada por padres o tutores legales',
+    ],
+    caracteristicasEspeciales: [
+      'Acceso 24/7 para miembros con membresía activa',
+      'Sistema de acceso automatizado',
+    ],
+  },
+  {
+    id: 'el-capulin',
+    nombre: 'El Capulín',
+    nombreCorto: 'CAP',
+    estado: 'abierto',
+    ubicacion: {
+      direccion: 'Venustiano Carranza 1, 45675 El Capulín, Jal.',
+      referencia: 'Frente a la plaza del Capulín',
+      ciudad: 'El Capulín',
+      estado: 'Jalisco',
+      googleMapsUrl: 'https://maps.app.goo.gl/a9yZfHxk4YVXjpuT7',
+      googleMapsEmbed: 'https://maps.google.com/maps?q=La+Chingada+Fitness+El+Capulin,+Jalisco&t=&z=17&ie=UTF8&iwloc=&output=embed',
+    },
+    contacto: {
+      telefono: '+52 33 3470 6910',
+      whatsapp: '523334706910',
+    },
+    redesSociales: {
+      facebook: 'https://www.facebook.com/lachingadafitnessoficial',
+      instagram: 'https://www.instagram.com/lachingadafitness_oficial',
+      messenger: 'https://m.me/lachingadafitnessoficial',
+    },
+    horarios: [
+      { dia: 'Lunes a Viernes', horario: '5:40 AM - 11:00 PM' },
+      { dia: 'Sábado', horario: '7:00 AM - 5:00 PM' },
+      { dia: 'Domingo', horario: '8:00 AM - 3:00 PM' },
+    ],
+    servicios: [
+      {
+        icono: 'cardio',
+        titulo: 'Área de Cardio',
+        descripcion: 'Caminadoras, elípticas, bicicletas estáticas y escaladoras',
+      },
+      {
+        icono: 'dumbbell',
+        titulo: 'Pesas y Máquinas',
+        descripcion: 'Área completa de pesas libres y máquinas de musculación',
+      },
+      {
+        icono: 'stretch',
+        titulo: 'Zona Funcional',
+        descripcion: 'Área de estiramientos y entrenamiento funcional',
+      },
+      {
+        icono: 'shower',
+        titulo: 'Regaderas',
+        descripcion: 'Regaderas con agua caliente incluidas',
+      },
+      {
+        icono: 'coach',
+        titulo: 'Instructores',
+        descripcion: 'Entrenadores capacitados incluidos en la membresía',
+      },
+      {
+        icono: 'nutrition',
+        titulo: 'Asesoría Nutricional',
+        descripcion: 'Asesoría básica de nutrición sin costo extra',
+      },
+    ],
+    precios: [
+      {
+        nombre: 'Visita',
+        precio: '$60',
+        precioDamas: '$60',
+      },
+      {
+        nombre: 'Semanal',
+        precio: '$150',
+        precioDamas: '$150',
+      },
+      {
+        nombre: 'Mensualidad',
+        precio: '$450',
+        precioDamas: '$400',
+        destacado: true,
+      },
+      {
+        nombre: 'Trimestral',
+        precio: '$1,250',
+        precioDamas: '$1,100',
+      },
+      {
+        nombre: 'Semestral',
+        precio: '$2,400',
+        precioDamas: '$2,100',
+      },
+      {
+        nombre: 'Anualidad',
+        precio: '$4,500',
+        precioDamas: '$4,000',
+      },
+    ],
+    politicas: [
+      'No hay edad mínima para inscribirse',
+      'No es necesario que menores vengan acompañados de padres/tutores',
+      'Rutinas 100% personalizadas tienen costo adicional',
+    ],
+    caracteristicasEspeciales: [
+      '¡Inscripción GRATIS!',
+      'Ambiente climatizado',
+      'WiFi gratuito',
+      'Estacionamiento público al lado del gimnasio',
+    ],
+  },
+]
+
+export function getSucursal(id: string): Sucursal | undefined {
+  return sucursales.find((s) => s.id === id)
+}
